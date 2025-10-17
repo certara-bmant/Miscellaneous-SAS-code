@@ -4,7 +4,7 @@
 **merck_kgaa_wc_labels**: Creation of Value Level from Merck Kgaa DTS template  <br>
 **merck_kgaa_wc_labels_safe**: Creation of Value Level from Merck Kgaa DTS template Lab dafety (no domain prefix in variables) <br>
 **merck_kgaa_wc_xtra**: Additonal vlm for 'qualifier' avraibles of where caluse and assocaited subcodelits <br>
-**p21vlchk**: Check to validation data against p21 dataset valuelvel in 'Dataset view' <br>
+**p21vlchk**: Check to validate data against p21 valuelevel in 'Dataset view' <br>
 **nov_p21**: Novartis metadata conversion to P21 xlsx (depreciated by _cl and _standards) <br>
 **nov_p21_cl**: Novartis metadara conversion to P21 for Terminology <br>
 **nov_p21_standards**: Novartis metadata conversion to P21 xlsx for Standards (Dataset, variables) <br>
