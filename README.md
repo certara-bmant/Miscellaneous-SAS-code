@@ -4,7 +4,7 @@
 **merck_kgaa_wc_labels**: Creation of Value Level from Merck Kgaa DTS template  <br>
 **merck_kgaa_wc_labels_safe**: Creation of Value Level from Merck Kgaa DTS template Lab dafety (no domain prefix in variables) <br>
 **merck_kgaa_wc_xtra**: Additonal vlm for 'qualifier' variables of where clause and assocaited subcodelist from KGaa DTS<br>
-**p21vlchk**: Check to validate data against p21 valuelevel in 'Dataset view' <br>
+**p21vlchk**: Check to validate data against p21 valuelevel multiple methods i) Merge 'vendor' dataset to VLM in dataset view based on predetermined key ii) SQL version using where clauses-for vendor data generates where caluses based on key. Also includes additonal code to determine a key based on where clauses<br>
 **nov_p21**: Novartis metadata conversion to P21 xlsx (depreciated by _cl and _standards) <br>
 **nov_p21_cl**: Novartis metadara conversion to P21 for Terminology <br>
 **nov_p21_standards**: Novartis metadata conversion to P21 xlsx for Standards (Dataset, variables) <br>
